@@ -1,5 +1,5 @@
 # Git-intro
-This is a repo for git operation recording and testing 
+This is a repo for git operation recording and testing(commit, branch, rebase, merge, pull request, etc) 
 
 ## Git Graph
 - #### For graph in SourceTree: 
